@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Samhiq!
+# 👋 Hii, I'm Samhiq!
 
 Welcome to my digital universe, where bugs bow and the symphony of AI and ML innovations plays on! 🌌✨
 
