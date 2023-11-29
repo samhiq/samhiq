@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Md Sameer Iqbal {Samhiq}!
+# 👋 Hello, I'm Samhiq!
 
 Welcome to my digital universe, where bugs bow and the symphony of AI and ML innovations plays on! 🌌✨
 
@@ -32,13 +32,13 @@ As a Cybersecurity Researcher, my mission is to unveil the mysteries of the digi
 
 Let's embark on this digital odyssey together! Reach out for collaboration, insights, or just a friendly tech chat.
 
- [![Email](https://img.shields.io/badge/-Email-cyan?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+ [![Email](https://img.shields.io/badge/-Email-cyan?style=for-the-badge&logo=gmail)](mailto:samhiqbot@gmail.com)
 
- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+ [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/samhiq)
 
- [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/yourhandle/)
+ [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/samhiq_/)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdsameeriqbal/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samhiq/)
 
  [![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge)](https://samhiq.dev)
 
