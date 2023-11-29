@@ -32,14 +32,14 @@ As a Cybersecurity Researcher, my mission is to unveil the mysteries of the digi
 
 Let's embark on this digital odyssey together! Reach out for collaboration, insights, or just a friendly tech chat.
 
-📧 **Email:** [![Email](https://img.shields.io/badge/-Email-cyan?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+**Email:** [![Email](https://img.shields.io/badge/-Email-cyan?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
 
-🐦 **Twitter:** [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+**Twitter:** [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
 
-📷 **Instagram:** [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/yourhandle/)
+**Instagram:** [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/yourhandle/)
 
-🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdsameeriqbal/)
+**LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdsameeriqbal/)
 
-🌐 **Portfolio:** [![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge)](https://samhiq.dev)
+**Portfolio:** [![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge)](https://samhiq.dev)
 
 Looking forward to the exciting journey ahead! 🚀✨
