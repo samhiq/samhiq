@@ -6,7 +6,7 @@ Welcome to my digital universe, where bugs bow and the symphony of AI and ML inn
 
 - **Name:** Md Sameer Iqbal {Samhiq}
 - **Hobby:** Finding Bugs & Crafting AI, ML 
-- **Martial Arts:** Red Belt Holder - 2019 Global Martial Art Academy Aligarh
+- **Martial Arts:** Red Belt Holder - 2019 Global Martial Art Academy
 - **Programming:** Multilingual Coder
 - **Focus:** AI Projects
 - **Role:** Cybersecurity Researcher
