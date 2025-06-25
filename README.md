@@ -32,7 +32,7 @@ As a Cybersecurity Researcher, my mission is to unveil the mysteries of the digi
 
 Let's embark on this digital odyssey together! Reach out for collaboration, insights, or just a friendly tech chat.
 
- [![Email](https://img.shields.io/badge/-Email-cyan?style=for-the-badge&logo=gmail)](mailto:samhiqbot@gmail.com)
+ [![Email](https://img.shields.io/badge/-Email-cyan?style=for-the-badge&logo=gmail)](mailto:contact.samhiq@gmail.com)
 
  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/samhiq)
 
