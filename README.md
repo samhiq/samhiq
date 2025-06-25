@@ -40,6 +40,6 @@ Let's embark on this digital odyssey together! Reach out for collaboration, insi
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samhiq/)
 
- [![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge)](https://samhiq.dev)
+ [![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge)](https://github.com/samhiq)
 
 Looking forward to the exciting journey ahead! 🚀✨
