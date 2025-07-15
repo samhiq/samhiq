@@ -28,12 +28,11 @@ Versatile technology expert with multi-domain proficiency in **cybersecurity, ar
 
 | Discipline                | Competence                                                          |
 | ------------------------- | ------------------------------------------------------------------- |
-| 🛡️ Offensive Security    | Red Teaming, Web App Exploits, Recon Automation, Secure DevSecOps   |
 | 🤖 AI Engineering         | Transformer Models, LLM Agents, Multi-modal Interfaces, GenAI Tools |
 | 💻 Systems Development    | Python, C++, C#, Go, Bash — secure system utilities and APIs        |
 | 🧱 Full-Stack Web Dev     | React, Next.js, Django, REST/GraphQL, SSR, Auth-Flows               |
 | ☁️ Cloud & Infrastructure | Docker, GitHub Actions, CI/CD, GCP, Firebase, Supabase              |
-| 🧰 Developer Tooling      | VSCode, Postman, Figma, Shell, Git, Monitoring & Logging            |
+
 
 ---
 
