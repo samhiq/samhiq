@@ -1,45 +1,105 @@
-# 👋 Hii, I'm Samhiq!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=900&lines=Cybersecurity+Architect+%7C+AI+Engineer+%7C+System+Programmer+%7C+Cloud+Security+Specialist" alt="Typing Banner" />
+</p>
 
-Welcome to my digital universe, where bugs bow and the symphony of AI and ML innovations plays on! 🌌✨
+<h1 align="center" style="font-weight:bold; font-size:40px;">👨‍💻 Md Sameer Iqbal (Samhiq)</h1>
+<h3 align="center">🔐 CyberSecurity | Full-Stack Dev | AI/ML</h3>
 
-## 🌟 About Me
+<p align="center">
+  <a href="mailto:contact.samhiq@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contact.samhiq@gmail.com-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/samhiq">
+    <img src="https://img.shields.io/badge/GitHub-samhiq-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-- **Name:** Md Sameer Iqbal {Samhiq}
-- **Hobby:** Finding Bugs & Crafting AI, ML 
-- **Martial Arts:** Red Belt Holder - 2019 Global Martial Art Academy
-- **Programming:** Multilingual Coder
-- **Focus:** AI Projects
-- **Role:** Cybersecurity Researcher
+---
 
-## 💼 Professional Journey
+## 🔍 Executive Profile
 
-Embarking on a journey to decode the secrets of the digital realm, my focus includes:
+Versatile technology expert with multi-domain proficiency in **cybersecurity, artificial intelligence, and cloud-native full-stack engineering**. I architect resilient systems, design threat-aware automation, and optimize performance pipelines across languages and frameworks.
 
-- **Bug Hunting:** Exploring digital landscapes, chasing bugs, and ensuring robust code.
-- **AI and ML:** Transforming concepts into intelligent solutions.
-- **Martial Arts:** Blending the physical and digital realms, holding a Red Belt since 2019.
-- **Programming:** Fluent in the languages of machines.
+> Proven ability to scale innovation, mitigate risk, and build secure-by-default infrastructure at code, container, and cloud levels.
 
-## 🚀 Current Projects
+---
 
-In the pulsating world of Artificial Intelligence, I'm pushing boundaries and crafting projects that redefine possibilities.
+## 📚 Core Expertise
 
-## 🔐 Cybersecurity Enthusiast
+| Discipline                | Competence                                                          |
+| ------------------------- | ------------------------------------------------------------------- |
+| 🛡️ Offensive Security    | Red Teaming, Web App Exploits, Recon Automation, Secure DevSecOps   |
+| 🤖 AI Engineering         | Transformer Models, LLM Agents, Multi-modal Interfaces, GenAI Tools |
+| 💻 Systems Development    | Python, C++, C#, Go, Bash — secure system utilities and APIs        |
+| 🧱 Full-Stack Web Dev     | React, Next.js, Django, REST/GraphQL, SSR, Auth-Flows               |
+| ☁️ Cloud & Infrastructure | Docker, GitHub Actions, CI/CD, GCP, Firebase, Supabase              |
+| 🧰 Developer Tooling      | VSCode, Postman, Figma, Shell, Git, Monitoring & Logging            |
 
-As a Cybersecurity Researcher, my mission is to unveil the mysteries of the digital world, safeguarding what matters most.
+---
 
-## 🌐 Connect with Me
+## 🧠 Advanced Tech Stack
 
-Let's embark on this digital odyssey together! Reach out for collaboration, insights, or just a friendly tech chat.
+### 💡 Languages
 
- [![Email](https://img.shields.io/badge/-Email-cyan?style=for-the-badge&logo=gmail)](mailto:contact.samhiq@gmail.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,go,ts,js,java,bash,rust,kotlin,swift" />
+</p>
 
- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/samhiq)
+### 🚀 Frameworks
 
- [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/samhiq_/)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,flask,express,tailwind" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samhiq/)
+### ☁️ DevOps & Cloud
 
- [![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge)](https://github.com/samhiq)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,github,linux,firebase,supabase,nginx" />
+</p>
 
-Looking forward to the exciting journey ahead! 🚀✨
+### 🧩 Tools & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,vscode,postman,figma" />
+</p>
+
+---
+
+## 🧭 Professional Focus (2025+)
+
+* Designing next-gen **cyber defense automation tools** with AI logic
+* Integrating **secure LLM agents** with memory & self-healing protocols
+* Implementing **CI/CD observability pipelines** with threat-aware telemetry
+* Leading R\&D on **cloud-native AI appsec solutions**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samhiq&show_icons=true&theme=react&hide=issues&count_private=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=samhiq&theme=react&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samhiq&layout=compact&theme=react" height="140"/>
+</p>
+
+---
+
+## 🧾 Learning Focus
+
+> I am continually evolving through real-world experimentation, security architecture deep-dives, and modern tooling best practices.
+
+* 🎯 Practicing real-time threat simulation and cloud attack response
+* 📦 Refining container-native & serverless deployments (Zero Trust aligned)
+* 🧠 Building modular AI agents for research and automation ops
+* 📘 Preparing for globally recognized certifications like OSCP
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=00F7FF&center=true&vCenter=true&width=1000&lines=I+don't+just+write+code.;I+architect+intelligence+and+fortify+systems.;I+engineer+infrastructure+that+endures+the+future." alt="Pro Quote" />
+</p>
+
+
