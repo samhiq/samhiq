@@ -99,7 +99,7 @@ Versatile technology expert with multi-domain proficiency in **cybersecurity, ar
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=00F7FF&center=true&vCenter=true&width=1000&lines=I+don't+just+write+code.;I+architect+intelligence+and+fortify+systems.;I+engineer+infrastructure+that+endures+the+future." alt="Pro Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=I+don't+just+write+code.;I+engineer+secure+intelligence+and+scalable+systems.;I+build+infrastructure+that+adapts+and+endures." alt="Professional Quote" />
 </p>
 
-
+<h3 align="center">🔐 Cybersecurity Architect | Full-Stack Engineer | AI Infrastructure Designer
