@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=900&lines=Cybersecurity+%7C+AI+ML+%7C+FullStack+Dev+%7C+Cloud+Security+Specialist" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=900&lines=Cybersecurity+%7C+AI/ML+%7C+FullStack+Dev+%7C+Cloud+Security+Specialist" alt="Typing Banner" />
 </p>
 
 <h1 align="center" style="font-weight:bold; font-size:40px;">👨‍💻 Md Sameer Iqbal (Samhiq)</h1>
