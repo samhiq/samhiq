@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=900&lines=Cybersecurity+Architect+%7C+AI+Engineer+%7C+System+Programmer+%7C+Cloud+Security+Specialist" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=900&lines=Cybersecurity+%7C+AI+ML+%7C+FullStack+Dev+%7C+Cloud+Security+Specialist" alt="Typing Banner" />
 </p>
 
 <h1 align="center" style="font-weight:bold; font-size:40px;">👨‍💻 Md Sameer Iqbal (Samhiq)</h1>
@@ -101,4 +101,9 @@ Versatile technology expert with multi-domain proficiency in **cybersecurity, ar
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=I+don't+just+write+code.;I+engineer+secure+intelligence+and+scalable+systems.;I+build+infrastructure+that+adapts+and+endures." alt="Professional Quote" />
 </p>
 
-<h3 align="center">🔐 Cybersecurity Architect | Full-Stack Engineer | AI Infrastructure Designer
+<h3 align="center">🔐 Cybersecurity Architect | Full-Stack Engineer | AI Infrastructure Designer</h3><br>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=samhiq.samhiq&label=Visitors&color=0e75b6&style=flat-square" alt="Visitor Counter" />
+</p>
+
