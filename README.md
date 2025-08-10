@@ -89,8 +89,3 @@ Versatile technology expert with multi-domain proficiency in **cybersecurity, ar
 </p>
 
 <h3 align="center">🔐 Cybersecurity Architect | Full-Stack Engineer | AI Infrastructure Designer</h3><br>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=samhiq.samhiq&label=Visitors&color=0e75b6&style=flat-square" alt="Visitor Counter" />
-</p>
-
